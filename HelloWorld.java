@@ -19,6 +19,7 @@ public class HelloWorld {
     }
     private void f3() {
         // v3.0
+        // fixed f3()
     }
 
 }
